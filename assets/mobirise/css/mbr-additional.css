@@ -733,31 +733,28 @@ a {
 .cid-sV6rWBpL1L {
   background-image: url("../../../assets/images/plusynergy-ofc-bldg-night.jpg");
 }
-.cid-sV47iYtmxq {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+.cid-tnma763IWe {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-image: url("../../../assets/images/plusynergy-landing-page-image.jpg");
 }
-.cid-sV47iYtmxq .mbr-overlay {
+.cid-tnma763IWe .mbr-overlay {
   background-color: #ffffff;
   opacity: 0.4;
 }
-@media (min-width: 992px) {
-  .cid-sV47iYtmxq form {
-    width: 50%;
-  }
-}
-.cid-sV47iYtmxq form .mbr-section-btn {
+.cid-tnma763IWe form .mbr-section-btn {
   text-align: center;
   width: 100%;
 }
-.cid-sV47iYtmxq form .mbr-section-btn .btn {
-  width: 100%;
+.cid-tnma763IWe form .mbr-section-btn .btn {
+  display: inline-flex;
 }
-.cid-sV47iYtmxq .mbr-section-subtitle {
-  color: #ffffff;
+@media (max-width: 991px) {
+  .cid-tnma763IWe form .mbr-section-btn .btn {
+    width: 100%;
+  }
 }
-.cid-sV47iYtmxq .mbr-section-title {
+.cid-tnma763IWe .mbr-section-title {
   color: #ffffff;
 }
 .cid-sV3MpZCynm {
