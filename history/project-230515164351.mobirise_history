@@ -79,8 +79,8 @@
     "uniqCompNum": 23,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
-    "mbrsiteDomain": "oashqdce3f",
-    "witsec-white-label": true
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
