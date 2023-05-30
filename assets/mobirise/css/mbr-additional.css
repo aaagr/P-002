@@ -1071,29 +1071,26 @@ a {
 .cid-tDeyP6ltqi .card-box {
   text-align: left;
 }
-.cid-tnma763IWe {
+.cid-tFJF1x2sPX {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/plusynergy-landing-page-image.jpg");
+  background-color: #ffffff;
 }
-.cid-tnma763IWe .mbr-overlay {
+.cid-tFJF1x2sPX .mbr-overlay {
   background-color: #ffffff;
   opacity: 0.4;
 }
-.cid-tnma763IWe form .mbr-section-btn {
+.cid-tFJF1x2sPX form .mbr-section-btn {
   text-align: center;
   width: 100%;
 }
-.cid-tnma763IWe form .mbr-section-btn .btn {
+.cid-tFJF1x2sPX form .mbr-section-btn .btn {
   display: inline-flex;
 }
 @media (max-width: 991px) {
-  .cid-tnma763IWe form .mbr-section-btn .btn {
+  .cid-tFJF1x2sPX form .mbr-section-btn .btn {
     width: 100%;
   }
-}
-.cid-tnma763IWe .mbr-section-title {
-  color: #ffffff;
 }
 .cid-sV3MpZCynm {
   padding-top: 2rem;
