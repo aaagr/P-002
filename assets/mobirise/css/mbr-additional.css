@@ -1163,6 +1163,21 @@ a {
 .cid-sV3MpZCynm .media-container-row .mbr-text {
   color: #bbbbbb;
 }
+.cid-tHVx6h4e3s {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/plusynergy-ofc-bldg-night.jpg");
+}
+.cid-tHVx6Z5D1Q {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tHVx6Z5D1Q blockquote {
+  border-color: #6592e6;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
 .cid-tHVmoFGZc6 {
   z-index: 1000;
   width: 100%;
@@ -1506,21 +1521,6 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
-}
-.cid-tHVmoGhSlE {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/plusynergy-ofc-bldg-night.jpg");
-}
-.cid-tHVmoGA8IN {
-  padding-top: 5rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-tHVmoGA8IN blockquote {
-  border-color: #6592e6;
-  border-radius: 4px;
-  background-color: #ffffff;
 }
 .cid-tHVmoHoDvc {
   padding-top: 2rem;
