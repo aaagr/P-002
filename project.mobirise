@@ -79,7 +79,7 @@
     "uniqCompNum": 35,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
-    "mbrsiteDomain": "kmczzjd1f8",
+    "mbrsiteDomain": "pzjj3hzevm",
     "witsec-white-label": true
   },
   "pages": {
@@ -719,11 +719,10 @@
     "Thankyou.html": {
       "settings": {
         "title": "Plusynergy | Message sent! Thank you",
-        "meta_descr": "Real Estate Stakeholders such as Developers, Investors, Asset Managers, Landlords or Vendors of high-rise schemes (offline/completed) and shopping centres (malls) can benefit the most from our exciting new opportunities.",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/plusynergy-favicon-4-wide.png",
         "order": 1
       },
       "components": [
