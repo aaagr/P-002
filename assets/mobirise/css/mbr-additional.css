@@ -1069,7 +1069,7 @@ a {
 }
 .cid-tDeyP6ltqi .card-title,
 .cid-tDeyP6ltqi .card-box {
-  text-align: left;
+  text-align: center;
 }
 .cid-tHVzSlQW5t {
   padding-top: 5rem;
@@ -1109,7 +1109,7 @@ a {
   }
 }
 .cid-tHVzSlQW5t .mbr-iconfont {
-  font-size: 4rem;
+  font-size: 0rem;
   padding-right: 1.5rem;
   color: #6592e6;
 }
@@ -1118,6 +1118,9 @@ a {
   text-align: center;
 }
 .cid-tHVzSlQW5t .card-title {
+  text-align: center;
+}
+.cid-tHVzSlQW5t .mbr-section-title {
   text-align: center;
 }
 .cid-sV3MpZCynm {
